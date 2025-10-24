@@ -1,4 +1,4 @@
-<h2 align="center">Đặng Thiên Hoà 👋</h2> 
+<h2 align="center">Harry John 👋</h2> 
 
 <p>🌟 I am a Full-Stack developer with over 7 years of experience in analyzing, designing, developing, and integrating front-end and backend based applications. <br/> 🤝 Let's connect and collaborate!</p>
 
