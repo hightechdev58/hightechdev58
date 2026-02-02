@@ -111,9 +111,3 @@
 </table>
 
 <hr />
-
-## 💹 Github Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hightech105&layout=compact&theme=dark) <br />
-![hightech105's GitHub stats](https://github-readme-stats.vercel.app/api?username=hightech105&show_icons=true&theme=dark) <br />
-![hightech105's current streak](https://streak-stats.demolab.com/?user=hightech105&count_private=true&theme=dark)
